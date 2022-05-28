@@ -1,0 +1,1 @@
+Parse .lsl file and remove unused or commented section
